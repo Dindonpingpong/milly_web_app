@@ -1,0 +1,12 @@
+.header-title {
+    font-size: 72px;
+    font-weight: 900;
+}
+
+header {
+    margin-top: 5vh;
+}
+
+.header__profile {
+    float: right;
+}
