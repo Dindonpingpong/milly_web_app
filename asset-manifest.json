@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/milly_web_app/static/css/main.07dd9ff5.chunk.css",
-    "main.js": "/milly_web_app/static/js/main.2734982f.chunk.js",
-    "main.js.map": "/milly_web_app/static/js/main.2734982f.chunk.js.map",
+    "main.css": "/milly_web_app/static/css/main.57b936c3.chunk.css",
+    "main.js": "/milly_web_app/static/js/main.8057a6b4.chunk.js",
+    "main.js.map": "/milly_web_app/static/js/main.8057a6b4.chunk.js.map",
     "runtime-main.js": "/milly_web_app/static/js/runtime-main.8e992e0d.js",
     "runtime-main.js.map": "/milly_web_app/static/js/runtime-main.8e992e0d.js.map",
     "static/css/2.4659568d.chunk.css": "/milly_web_app/static/css/2.4659568d.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.17f85ede.chunk.js.map": "/milly_web_app/static/js/3.17f85ede.chunk.js.map",
     "index.html": "/milly_web_app/index.html",
     "static/css/2.4659568d.chunk.css.map": "/milly_web_app/static/css/2.4659568d.chunk.css.map",
-    "static/css/main.07dd9ff5.chunk.css.map": "/milly_web_app/static/css/main.07dd9ff5.chunk.css.map",
+    "static/css/main.57b936c3.chunk.css.map": "/milly_web_app/static/css/main.57b936c3.chunk.css.map",
     "static/js/2.24f366dc.chunk.js.LICENSE.txt": "/milly_web_app/static/js/2.24f366dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8e992e0d.js",
     "static/css/2.4659568d.chunk.css",
     "static/js/2.24f366dc.chunk.js",
-    "static/css/main.07dd9ff5.chunk.css",
-    "static/js/main.2734982f.chunk.js"
+    "static/css/main.57b936c3.chunk.css",
+    "static/js/main.8057a6b4.chunk.js"
   ]
 }
