@@ -9,4 +9,5 @@ header {
 
 .header__profile {
     float: right;
+    height: 60px;
 }

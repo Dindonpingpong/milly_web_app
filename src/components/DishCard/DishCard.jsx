@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardBody, CardImg, CardText, CardTitle, Spinner } from 'reactstrap';
+import { Button, Card, CardBody, CardImg, CardText, CardTitle, Col, Row, Spinner } from 'reactstrap';
 import './DishCard.css';
 
 const DishCard = ({ id, title, description, image, isLoading = false }) => {
@@ -20,6 +20,14 @@ const DishCard = ({ id, title, description, image, isLoading = false }) => {
                 <CardBody>
                     <CardTitle className="font-link" tag="h1">{title}</CardTitle>
                     <CardText className="font-link">{description}</CardText>
+                    <Row className="card-buttons">
+                        <Col>
+                            <Button outline color="success" block>Add</Button>
+                        </Col>
+                        <Col>
+                            <Button outline color="danger" block>Like</Button>
+                        </Col>
+                    </Row>
                 </CardBody>
             }
         </Card>
