@@ -3,7 +3,7 @@ import { Col, Container, Row } from 'reactstrap';
 import './../../App.css';
 import './Header.css';
 
-const profile = "/images/profile.png";
+const profile = process.env.PUBLIC_URL + "/images/profile.png";
 
 const Header = () => {
     return(
