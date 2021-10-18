@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/milly_web_app/static/css/main.57b936c3.chunk.css",
-    "main.js": "/milly_web_app/static/js/main.edf42f3e.chunk.js",
-    "main.js.map": "/milly_web_app/static/js/main.edf42f3e.chunk.js.map",
-    "runtime-main.js": "/milly_web_app/static/js/runtime-main.8e992e0d.js",
-    "runtime-main.js.map": "/milly_web_app/static/js/runtime-main.8e992e0d.js.map",
+    "main.css": "/milly_web_app/static/css/main.3c6487fd.chunk.css",
+    "main.js": "/milly_web_app/static/js/main.ad4434d1.chunk.js",
+    "main.js.map": "/milly_web_app/static/js/main.ad4434d1.chunk.js.map",
+    "runtime-main.js": "/milly_web_app/static/js/runtime-main.bd164b2c.js",
+    "runtime-main.js.map": "/milly_web_app/static/js/runtime-main.bd164b2c.js.map",
     "static/css/2.4659568d.chunk.css": "/milly_web_app/static/css/2.4659568d.chunk.css",
-    "static/js/2.24f366dc.chunk.js": "/milly_web_app/static/js/2.24f366dc.chunk.js",
-    "static/js/2.24f366dc.chunk.js.map": "/milly_web_app/static/js/2.24f366dc.chunk.js.map",
-    "static/js/3.17f85ede.chunk.js": "/milly_web_app/static/js/3.17f85ede.chunk.js",
-    "static/js/3.17f85ede.chunk.js.map": "/milly_web_app/static/js/3.17f85ede.chunk.js.map",
+    "static/js/2.df232ef6.chunk.js": "/milly_web_app/static/js/2.df232ef6.chunk.js",
+    "static/js/2.df232ef6.chunk.js.map": "/milly_web_app/static/js/2.df232ef6.chunk.js.map",
+    "static/js/3.21245c1b.chunk.js": "/milly_web_app/static/js/3.21245c1b.chunk.js",
+    "static/js/3.21245c1b.chunk.js.map": "/milly_web_app/static/js/3.21245c1b.chunk.js.map",
     "index.html": "/milly_web_app/index.html",
     "static/css/2.4659568d.chunk.css.map": "/milly_web_app/static/css/2.4659568d.chunk.css.map",
-    "static/css/main.57b936c3.chunk.css.map": "/milly_web_app/static/css/main.57b936c3.chunk.css.map",
-    "static/js/2.24f366dc.chunk.js.LICENSE.txt": "/milly_web_app/static/js/2.24f366dc.chunk.js.LICENSE.txt"
+    "static/css/main.3c6487fd.chunk.css.map": "/milly_web_app/static/css/main.3c6487fd.chunk.css.map",
+    "static/js/2.df232ef6.chunk.js.LICENSE.txt": "/milly_web_app/static/js/2.df232ef6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e992e0d.js",
+    "static/js/runtime-main.bd164b2c.js",
     "static/css/2.4659568d.chunk.css",
-    "static/js/2.24f366dc.chunk.js",
-    "static/css/main.57b936c3.chunk.css",
-    "static/js/main.edf42f3e.chunk.js"
+    "static/js/2.df232ef6.chunk.js",
+    "static/css/main.3c6487fd.chunk.css",
+    "static/js/main.ad4434d1.chunk.js"
   ]
 }
