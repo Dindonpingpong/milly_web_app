@@ -3,7 +3,7 @@ import { Col, Container, Row } from 'reactstrap';
 import './../../App.css';
 import './Header.css';
 
-const profile = '/images/profile.png';
+const profile = "/img/profile.png";
 
 const Header = () => {
     return(
@@ -14,7 +14,7 @@ const Header = () => {
                         <span className="font-link header-title">Milly</span>
                     </Col>
                     <Col>
-                          <img className="header__profile" href={profile}
+                          <img className="header__profile" src={profile}
                           alt="profile"/>                            
                     </Col>
                 </Row>
